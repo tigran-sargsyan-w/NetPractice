@@ -2,7 +2,7 @@
 
 ✅ **Status**: Completed *(10/10 levels exported)*  
 🏫 **School**: 42 – NetPractice  
-🏅 **Score**: <score>/100
+🏅 **Score**: 100/100
 
 > *A hands-on networking sandbox: subnetting, gateways, and routing — with instant feedback.*
 
